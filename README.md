@@ -1,6 +1,6 @@
-# 📚 BookKart – Full-Stack Bookstore Platform
+# 📚 Bookcart – Full-Stack Bookstore Platform
 
-BookKart is a full-stack bookstore application built using **Node.js (TypeScript) for the backend** and **Next.js for the frontend**. It features authentication, payment processing, cloud storage, and a seamless user experience.
+Bookcart is a full-stack bookstore application built using **Node.js (TypeScript) for the backend** and **Next.js for the frontend**. It features authentication, payment processing, cloud storage, and a seamless user experience.
 
 ## 🚀 Tech Stack
 - **Backend:** Node.js (TypeScript), Express.js, MongoDB (Mongoose)
@@ -101,8 +101,7 @@ Open a Pull Request.
 This **README.md** is ready for sharing with your buyer! 🚀 Let me know if you need any modifications.
 
 
-📞 Contact
-For any queries, reach out via email: desistack7@gmail.com
+
 
 
 
