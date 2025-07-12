@@ -77,29 +77,6 @@ NEXT_PUBLIC_RAZORPAY_KEY_ID=your-razorpay-key-id
 3. Set up **environment variables** under **Settings > Environment Variables**.
 4. Deploy and get the **frontend URL**.
 
-🛠 Contributing
-If you want to contribute:
-
-Fork the repository.
-Create a feature branch (git checkout -b feature-name).
-Commit changes (git commit -m "Added feature").
-Push to your branch (git push origin feature-name).
-Open a Pull Request.
-
-
-
----
-
-### **Why This README Is Useful?**
-✔ **All-in-One File** - Single file with everything included.  
-✔ **Clear Project Structure** - Explains folders and file organization.  
-✔ **Step-by-Step Setup** - Makes it easy for others to start using the project.  
-✔ **Environment Variables** - Shows required `.env` variables (without exposing secrets).  
-✔ **Deployment Instructions** - Guides on deploying the project to **Render (backend)** and **Vercel (frontend)**.  
-✔ **API Documentation** - Highlights key API routes.  
-
-This **README.md** is ready for sharing with your buyer! 🚀 Let me know if you need any modifications.
-
 
 
 
